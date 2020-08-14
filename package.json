@@ -19,15 +19,22 @@
     "@angular/platform-browser": "~10.0.9",
     "@angular/platform-browser-dynamic": "~10.0.9",
     "@angular/router": "~10.0.9",
+    "@nartc/tailwind-schematics": "^1.0.3",
     "rxjs": "~6.5.5",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.3"
   },
   "devDependencies": {
+    "@angular-builders/custom-webpack": "latest",
     "@angular-devkit/build-angular": "~0.1000.6",
     "@angular/cli": "~10.0.6",
     "@angular/compiler-cli": "~10.0.9",
+    "@fullhuman/postcss-purgecss": "latest",
     "@types/node": "^12.11.1",
+    "postcss-import": "latest",
+    "postcss-loader": "latest",
+    "postcss-scss": "latest",
+    "tailwindcss": "latest",
     "ts-node": "~8.3.0",
     "tslint": "~6.1.0",
     "typescript": "~3.9.5"
